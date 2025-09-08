@@ -1,6 +1,6 @@
-header {
-  height: 150px;      /* altezza dell'header */
-  display: flex;      
-  justify-content: center; /* centra orizzontalmente */
-  align-items: center;     /* centra verticalmente */
+header h1 {
+  display: flex;
+  justify-content: center; /* centro orizzontale */
+  align-items: center;     /* centro verticale */
+  height: 100%;            /* occupa tutta l’altezza dell’header */
 }
