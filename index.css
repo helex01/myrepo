@@ -1,1 +1,7 @@
-
+header {
+  display: flex;              /* rende header un contenitore flex */
+  justify-content: space-between; /* spazio tra logo e menù */
+  align-items: center;        /* allinea verticalmente */
+  padding: 20px;
+}
+  
