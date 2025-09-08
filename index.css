@@ -1,4 +1,3 @@
-header {
-  display: flex;
-  justify-content: center;  /* centra orizzontalmente */
+h1 {
+  text-align: center; /* centra l’immagine orizzontalmente */
 }
